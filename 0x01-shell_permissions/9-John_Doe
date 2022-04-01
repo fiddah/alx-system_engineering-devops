@@ -1,2 +1,2 @@
 #!/bin/bash
-chimod rwxr-x-wx hello
+chimod 754 hello
