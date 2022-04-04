@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 6-third_line | awk NR==25
+cat iacta | awk NR==3
